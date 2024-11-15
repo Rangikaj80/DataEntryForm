@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GUIProject", "GUIProject.pyproj", "{D2EF5FC5-CF1C-41AA-AE15-0B4393075A9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2EF5FC5-CF1C-41AA-AE15-0B4393075A9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2EF5FC5-CF1C-41AA-AE15-0B4393075A9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F2183C7-50C6-4F1F-BFF7-496CD19C96FF}
+	EndGlobalSection
+EndGlobal
